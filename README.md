@@ -14,8 +14,8 @@ The source code will be released soon.
 ---
 
 ## 📂 Dataset Access  
-The dataset release and related data-handling processes are currently managed by the **Legal Department of United Microelectronics Corporation (UMC)**.  
-Once the dataset becomes publicly available, this page will provide links for **account registration**, **NDA signing**, and **contact information**.  
+The dataset release and related data-handling processes are currently managed by the **United Microelectronics Corporation (UMC)**.  
+Once the dataset becomes publicly available, this page will provide links for **account registration**, **NDA signing**, and **contact information (UMC)**.  
 
 All dataset access requests will be processed by UMC on a case-by-case basis.
 
