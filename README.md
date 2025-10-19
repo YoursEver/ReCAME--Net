@@ -2,7 +2,7 @@
 **Regional Channel Attention-based Multi-Expert Network (IEEE TCAD)**
 
 This is the official project page of our IEEE TCAD paper entitled:  
-**“Exploring *Many in Few* and *Few in Many* Properties in Long-Tailed, Highly-Imbalanced IC Defect Classification.”**
+**“Exploring "Many in Few" and "Few in Many" Properties in Long-Tailed, Highly-Imbalanced IC Defect Classification.”**
 
 ---
 
