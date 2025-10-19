@@ -23,7 +23,7 @@ All dataset access requests will be processed by UMC on a case-by-case basis.
 
 ## 📄 Citation
 
-If you find our work useful, please cite the following paper:
+Please cite the following paper:
 
 ```bibtex
 @article{shao2026exploring,
