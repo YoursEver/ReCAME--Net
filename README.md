@@ -7,7 +7,7 @@ This is the official project page of our IEEE TCAD paper entitled:
 ---
 
 ## 🔧 Source Code  
-*(Tailored for the well-known [WM-811k]*  
+*(Tailored for the well-known [WM-811k])*  
 
 The source code will be released soon.
 
